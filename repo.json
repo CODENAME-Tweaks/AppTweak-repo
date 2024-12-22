@@ -15,5 +15,6 @@
             "name": "Whitelist",
             "description": "whitelist port to sparse UNTESTED",
             "url": "https://github.com/CODENAME-Tweaks/AppTweak-repo/raw/refs/heads/main/whitelist.tweak"
+        },
     ]
 }
